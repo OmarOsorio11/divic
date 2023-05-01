@@ -1,0 +1,17 @@
+C:\mvc\tiendaOnline\COMMON\obj\Debug\net6.0\tiendaOnline.COMMON.csproj.AssemblyReference.cache
+C:\mvc\tiendaOnline\COMMON\obj\Debug\net6.0\tiendaOnline.COMMON.GeneratedMSBuildEditorConfig.editorconfig
+C:\mvc\tiendaOnline\COMMON\obj\Debug\net6.0\tiendaOnline.COMMON.AssemblyInfoInputs.cache
+C:\mvc\tiendaOnline\COMMON\obj\Debug\net6.0\tiendaOnline.COMMON.AssemblyInfo.cs
+C:\mvc\tiendaOnline\COMMON\obj\Debug\net6.0\tiendaOnline.COMMON.csproj.CoreCompileInputs.cache
+C:\mvc\tiendaOnline\tiendaOnline.COMMON\bin\Debug\net6.0\tiendaOnline.COMMON.deps.json
+C:\mvc\tiendaOnline\tiendaOnline.COMMON\bin\Debug\net6.0\tiendaOnline.COMMON.dll
+C:\mvc\tiendaOnline\tiendaOnline.COMMON\bin\Debug\net6.0\tiendaOnline.COMMON.pdb
+C:\mvc\tiendaOnline\tiendaOnline.COMMON\obj\Debug\net6.0\tiendaOnline.COMMON.csproj.AssemblyReference.cache
+C:\mvc\tiendaOnline\tiendaOnline.COMMON\obj\Debug\net6.0\tiendaOnline.COMMON.GeneratedMSBuildEditorConfig.editorconfig
+C:\mvc\tiendaOnline\tiendaOnline.COMMON\obj\Debug\net6.0\tiendaOnline.COMMON.AssemblyInfoInputs.cache
+C:\mvc\tiendaOnline\tiendaOnline.COMMON\obj\Debug\net6.0\tiendaOnline.COMMON.AssemblyInfo.cs
+C:\mvc\tiendaOnline\tiendaOnline.COMMON\obj\Debug\net6.0\tiendaOnline.COMMON.csproj.CoreCompileInputs.cache
+C:\mvc\tiendaOnline\tiendaOnline.COMMON\obj\Debug\net6.0\tiendaOnline.COMMON.dll
+C:\mvc\tiendaOnline\tiendaOnline.COMMON\obj\Debug\net6.0\refint\tiendaOnline.COMMON.dll
+C:\mvc\tiendaOnline\tiendaOnline.COMMON\obj\Debug\net6.0\tiendaOnline.COMMON.pdb
+C:\mvc\tiendaOnline\tiendaOnline.COMMON\obj\Debug\net6.0\ref\tiendaOnline.COMMON.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IZhite6CLaSqitAp/52D05ypCb1m/WOHYJcInnQF//W2pe69VcBY3HTnKxkAnWAriT8N6d3Pc98GsDcVKwjo8g==",
+  "success": true,
+  "projectFilePath": "C:\\divic_solution\\divic\\divic.COMMON\\divic.COMMON.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alondra\\.nuget\\packages\\fluentvalidation\\11.5.2\\fluentvalidation.11.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\divic_solution\divic\divic.DAL.SQLSERVER\bin\Debug\net6.0\divic.DAL.SQLSERVER.deps.json
+C:\divic_solution\divic\divic.DAL.SQLSERVER\bin\Debug\net6.0\divic.DAL.SQLSERVER.dll
+C:\divic_solution\divic\divic.DAL.SQLSERVER\bin\Debug\net6.0\divic.DAL.SQLSERVER.pdb
+C:\divic_solution\divic\divic.DAL.SQLSERVER\bin\Debug\net6.0\divic.COMMON.dll
+C:\divic_solution\divic\divic.DAL.SQLSERVER\bin\Debug\net6.0\divic.COMMON.pdb
+C:\divic_solution\divic\divic.DAL.SQLSERVER\obj\Debug\net6.0\divic.DAL.SQLSERVER.csproj.AssemblyReference.cache
+C:\divic_solution\divic\divic.DAL.SQLSERVER\obj\Debug\net6.0\divic.DAL.SQLSERVER.GeneratedMSBuildEditorConfig.editorconfig
+C:\divic_solution\divic\divic.DAL.SQLSERVER\obj\Debug\net6.0\divic.DAL.SQLSERVER.AssemblyInfoInputs.cache
+C:\divic_solution\divic\divic.DAL.SQLSERVER\obj\Debug\net6.0\divic.DAL.SQLSERVER.AssemblyInfo.cs
+C:\divic_solution\divic\divic.DAL.SQLSERVER\obj\Debug\net6.0\divic.DAL.SQLSERVER.csproj.CoreCompileInputs.cache
+C:\divic_solution\divic\divic.DAL.SQLSERVER\obj\Debug\net6.0\divic.DAL.SQLSERVER.csproj.CopyComplete
+C:\divic_solution\divic\divic.DAL.SQLSERVER\obj\Debug\net6.0\divic.DAL.SQLSERVER.dll
+C:\divic_solution\divic\divic.DAL.SQLSERVER\obj\Debug\net6.0\refint\divic.DAL.SQLSERVER.dll
+C:\divic_solution\divic\divic.DAL.SQLSERVER\obj\Debug\net6.0\divic.DAL.SQLSERVER.pdb
+C:\divic_solution\divic\divic.DAL.SQLSERVER\obj\Debug\net6.0\ref\divic.DAL.SQLSERVER.dll

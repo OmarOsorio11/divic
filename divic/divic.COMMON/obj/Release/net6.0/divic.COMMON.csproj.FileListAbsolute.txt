@@ -1,0 +1,12 @@
+C:\divic_solution\divic\divic.COMMON\bin\Release\net6.0\divic.COMMON.deps.json
+C:\divic_solution\divic\divic.COMMON\bin\Release\net6.0\divic.COMMON.dll
+C:\divic_solution\divic\divic.COMMON\bin\Release\net6.0\divic.COMMON.pdb
+C:\divic_solution\divic\divic.COMMON\obj\Release\net6.0\divic.COMMON.csproj.AssemblyReference.cache
+C:\divic_solution\divic\divic.COMMON\obj\Release\net6.0\divic.COMMON.GeneratedMSBuildEditorConfig.editorconfig
+C:\divic_solution\divic\divic.COMMON\obj\Release\net6.0\divic.COMMON.AssemblyInfoInputs.cache
+C:\divic_solution\divic\divic.COMMON\obj\Release\net6.0\divic.COMMON.AssemblyInfo.cs
+C:\divic_solution\divic\divic.COMMON\obj\Release\net6.0\divic.COMMON.csproj.CoreCompileInputs.cache
+C:\divic_solution\divic\divic.COMMON\obj\Release\net6.0\divic.COMMON.dll
+C:\divic_solution\divic\divic.COMMON\obj\Release\net6.0\refint\divic.COMMON.dll
+C:\divic_solution\divic\divic.COMMON\obj\Release\net6.0\divic.COMMON.pdb
+C:\divic_solution\divic\divic.COMMON\obj\Release\net6.0\ref\divic.COMMON.dll

@@ -1,0 +1,1 @@
+C:\divic_solution\divic\divic.MAUI\divic.MAUI.csproj;x64

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\divic_solution\divic\divic.BIZ.API\bin\Release\net6.0\publish\</_PublishTargetUrl>
+    <History>True|2023-05-01T05:54:31.2955469Z;True|2023-04-30T23:34:14.5427035-06:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
